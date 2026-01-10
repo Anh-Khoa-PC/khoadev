@@ -6,38 +6,38 @@ const projects = [
   {
     id: "01",
     title: "GROWTH OPERATOR",
-    category: "REVENUE ACCELERATION",
-    description: "A guarantee-backed agency scaling system. Dark-mode aesthetics meet high-performance funnels to add $10k+ recurring revenue in 90 days. Built for limited client capacity with high-ticket precision.",
-    tags: ["Conversion System", "Agency Scaling", "Dark UI"],
+    category: "REVENUE ARCHITECTURE",
+    description: "A premium scaling system designed for high-ticket agencies. Merging dark-mode aesthetics with precision-engineered conversion funnels.",
+    tags: ["Conversion Design", "Growth Strategy", "Premium UI"],
     color: "#FF5C00", 
-    image: "/grow_2.png" // Abstract orange/black graph/dashboard feel
+    image: "/grow_2.png" // Vercel sẽ tìm trong thư mục public
   },
   {
     id: "02",
     title: "CR STARTUP",
-    category: "DIGITAL REVOLUTION",
-    description: "Not just a tech startup, but a breakthrough engine. A typography-driven digital manifesto redefining how technology shapes the future in Vietnam. Bold, Visionary, Relentless.",
-    tags: ["Brand Identity", "Manifesto", "Future Tech"],
+    category: "TECH REVOLUTION",
+    description: "The core engine of my digital ecosystem. A typography-led manifesto defining the future of technology in Vietnam.",
+    tags: ["Startup Identity", "Future Vision", "Next.js"],
     color: "#FFFFFF",
-    image: "/cr.png" // Cyberpunk/Tech vibe
+    image: "/cr.png" 
   },
   {
     id: "03",
-    title: "KONA APP",
-    category: "SUPER APP ECOSYSTEM",
-    description: "Pioneering automation in delivery. A fleet of robots and drones managed via a sleek, futuristic mobile interface. Delivering intelligence 24/7.",
-    tags: ["Flutter", "Robotics", "Super App"],
+    title: "KONA ECOSYSTEM",
+    category: "AUTOMATION & ROBOTICS",
+    description: "Bridging the gap between software and hardware. Managing a fleet of autonomous drones and smart delivery robots.",
+    tags: ["Automation", "Robotics Control", "Super App"],
     color: "#00C853",
-    image: "/kona.png" // Mobile/Tech
+    image: "/kona.png" 
   },
   {
     id: "04",
-    title: "NEXUS PROFILE",
-    category: "SECURITY IDENTITY",
-    description: "The digital fortress of a Founder. Showcasing bug bounties from Netflix, Facebook, and Google. A living documentation of elite security achievements.",
-    tags: ["Open Source", "Bug Bounty", "Profile"],
+    title: "NEXUS SECURITY",
+    category: "CYBER DEFENSE",
+    description: "An elite security identity showcasing a track record in White Hat hacking. Documenting high-impact vulnerabilities found globally.",
+    tags: ["Vulnerability Research", "Bug Bounty", "Pentesting"],
     color: "#3B82F6",
-    image: "/nexus.png" // Matrix/Hacker code
+    image: "/nexus.png" 
   }
 ];
 
