@@ -351,7 +351,7 @@ const CRModal: React.FC<{ onClose: () => void }> = ({ onClose }) => {
                     <div className="absolute -inset-4 bg-blue-500/20 blur-xl rounded-full opacity-0 group-hover:opacity-100 transition-opacity" />
                     <div className="w-48 h-48 mx-auto bg-neutral-900 rounded-full overflow-hidden border-2 border-neutral-800 flex items-center justify-center relative z-10">
                         <img 
-                            src="/public/founder.jpg" 
+                            src="/founder.jpg" 
                             alt="Nguyen Vo Anh Khoa" 
                             className="w-full h-full object-cover"
                         />
